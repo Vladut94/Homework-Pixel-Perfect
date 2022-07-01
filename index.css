@@ -1,0 +1,45 @@
+h5,p,span {
+    text-align: center;
+}
+
+h5 {
+    font-size: 25px;
+}
+
+.star {
+    color:#DAA520;
+    font-size: 25px;
+}
+
+.heart {
+    color:#DCDCDC;
+    margin-left: 25px;
+    font-size: 25px;   
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.cart-button {
+    background-color: black;
+    color: white;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.view-button {
+    border: 2px solid black;
+    background-color: white;
+    color: black; 
+    margin-left: 15px; 
+    padding-left: 15px;
+    padding-right: 15px; 
+}
+
+#red {
+    color: red;
+}
